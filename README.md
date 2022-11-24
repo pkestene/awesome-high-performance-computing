@@ -184,6 +184,7 @@ A curated list of awesome high performance computing resources.
  - [Amira](https://www.thermofisher.com/ca/en/home/electron-microscopy/products/software-em-3d-vis/amira-software.html)
  - [Scientific Visualization Wiki](https://en.wikipedia.org/wiki/Scientific_visualization)
  - [ADIOS2](https://github.com/ornladios/ADIOS2)
+ - [VisRTX](https://github.com/NVIDIA/VisRTX)
 
 #### Misc.
  - [mimalloc memory allocator](https://github.com/microsoft/mimalloc)
